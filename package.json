@@ -1,0 +1,16 @@
+{
+  "name": "API_Demo",
+  "version": "0.0.1",
+  "description": "Github Demo API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Binoy Patel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.10.2",
+    "body-parser": "^1.9.2",
+    "request": "^2.47.0"
+  }
+}
